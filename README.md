@@ -1,6 +1,11 @@
 # DeadPixelAveragingAlgorithm
 Used to eliminate dead pixels from images from the camera
 
+Prerequisites:
+- CHECLabPy
+- Numpy
+- SciPy
+
 1) ChecLabPy in folder ../Folder_name/CHECLabPy
 2) Download files and place in ../Folder_name/DeadPixelAlgorithm
 3) In DeadPixelAveragingAlgorithm.py, define whether the files that are to be read in are a single module or the full camera
